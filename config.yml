@@ -26,5 +26,8 @@ params:
     - description: Our company public facing website
       link: 'https://www.triporate.com/'
       name: Website
-    - name: AI Travel Engine
+    - description: Our Travel Engine that renders and manages all trips
+      name: AI Travel Engine
+    - description: In and out email parsing services
+      name: Email Services
   timezoneString: Europe/Madrid
